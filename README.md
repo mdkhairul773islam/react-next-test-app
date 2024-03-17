@@ -13,14 +13,6 @@ pnpm dev
 # or
 bun dev
 ```
-
-## Deploy on Personal Github
-
-```
-git remote set-url origin https://github.com/mhhasanmehedi/blue-car.git
-
-```
-
 ## Deploy on Khairul's Github
 
 ```
