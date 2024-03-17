@@ -22,6 +22,8 @@ git remote set-url origin https://github.com/mdkhairul773islam/react-next-test-a
 
 ## Technologies
 
+-- Laravel 10
+
 -- React Table
 
 -- Mockaroo JOSN Data
@@ -33,6 +35,10 @@ git remote set-url origin https://github.com/mdkhairul773islam/react-next-test-a
 -- React icons
 
 ## Completed Module
+
+-- Login
+
+-- Logout
 
 -- Dashboard
 
