@@ -16,7 +16,7 @@ bun dev
 ## Deploy on Khairul's Github
 
 ```
-git remote set-url origin https://github.com/mdkhairul773islam/bluCar.git
+git remote set-url origin https://github.com/mdkhairul773islam/react-next-test-app.git
 
 ```
 
