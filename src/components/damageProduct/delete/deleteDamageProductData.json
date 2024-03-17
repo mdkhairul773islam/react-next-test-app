@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "date": "6/7/2023",
+    "code": "OM-ZU",
+    "name": "Claudelle Ondrus",
+    "quantity": 16.7,
+    "sale_Price": 3035.76,
+    "remark": "War op w nuclear radiation eff of nuclear weapon, civ, init",
+    "user": "condrus0"
+  },
+  {
+    "id": 2,
+    "date": "3/31/2023",
+    "code": "US-MT",
+    "name": "Johann Fayter",
+    "quantity": 18.9,
+    "sale_Price": 1955.37,
+    "remark": "Sltr-haris Type I physeal fx unspecified calcaneus, 7thP",
+    "user": "jfayter1"
+  },
+  {
+    "id": 3,
+    "date": "11/6/2023",
+    "code": "GY-PT",
+    "name": "Carol-jean Foffano",
+    "quantity": 14.95,
+    "sale_Price": 4445.81,
+    "remark": "Oth nondisplaced dens fracture, subs for fx w nonunion",
+    "user": "cfoffano2"
+  },
+  {
+    "id": 4,
+    "date": "12/27/2023",
+    "code": "MY-13",
+    "name": "Regan Jedrzejkiewicz",
+    "quantity": 18.13,
+    "sale_Price": 4338.79,
+    "remark": "Maternal care for fetal problem, unsp, first trimester, oth",
+    "user": "rjedrzejkiewicz3"
+  },
+  {
+    "id": 5,
+    "date": "1/16/2024",
+    "code": "CA-QC",
+    "name": "Tadd Smuth",
+    "quantity": 2.32,
+    "sale_Price": 4301.94,
+    "remark": "Athscl unsp type bypass of the right leg w ulcer of thigh",
+    "user": "tsmuth4"
+  },
+  {
+    "id": 6,
+    "date": "9/30/2023",
+    "code": "AR-S",
+    "name": "Atlanta Pashler",
+    "quantity": 16.52,
+    "sale_Price": 3785.02,
+    "remark": "Oth fx upr & low end r fibula, 7thR",
+    "user": "apashler5"
+  },
+  {
+    "id": 7,
+    "date": "8/27/2023",
+    "code": "AU-QLD",
+    "name": "Kelsey Stouther",
+    "quantity": 5.18,
+    "sale_Price": 2436.77,
+    "remark": "Dislocation of T4/T5 thoracic vertebra, initial encounter",
+    "user": "kstouther6"
+  },
+  {
+    "id": 8,
+    "date": "6/20/2023",
+    "code": "PG-GPK",
+    "name": "Kennedy Moret",
+    "quantity": 13.63,
+    "sale_Price": 4029.81,
+    "remark": "Collapsed vertebra, NEC, thoracolumbar region, sqla",
+    "user": "kmoret7"
+  },
+  {
+    "id": 9,
+    "date": "10/27/2023",
+    "code": "PG-EHG",
+    "name": "Madalena Dartan",
+    "quantity": 13.18,
+    "sale_Price": 1535.14,
+    "remark": "Benign prostatic hyperplasia with lower urinary tract symp",
+    "user": "mdartan8"
+  },
+  {
+    "id": 10,
+    "date": "5/17/2023",
+    "code": "CM-OU",
+    "name": "Aleda Duligall",
+    "quantity": 19.94,
+    "sale_Price": 2977.91,
+    "remark": "Lac w/o fb of right lesser toe(s) w/o damage to nail, init",
+    "user": "aduligall9"
+  },
+  {
+    "id": 11,
+    "date": "10/14/2023",
+    "code": "US-AK",
+    "name": "Angel Raffan",
+    "quantity": 3.62,
+    "sale_Price": 3500.63,
+    "remark": "Explosn of bomb place dur war op but expld after, civ, subs",
+    "user": "araffana"
+  },
+  {
+    "id": 12,
+    "date": "10/14/2023",
+    "code": "US-CT",
+    "name": "Elianore Bennett",
+    "quantity": 10.87,
+    "sale_Price": 3237.08,
+    "remark": "Avulsion of left eye, initial encounter",
+    "user": "ebennettb"
+  },
+  {
+    "id": 13,
+    "date": "10/31/2023",
+    "code": "BS-MH",
+    "name": "Matthiew Sancias",
+    "quantity": 18.82,
+    "sale_Price": 3145.88,
+    "remark": "Chorioretinal scars after surgery for detachment",
+    "user": "msanciasc"
+  },
+  {
+    "id": 14,
+    "date": "3/14/2023",
+    "code": "US-TX",
+    "name": "Rodger Bareford",
+    "quantity": 3.4,
+    "sale_Price": 2003.92,
+    "remark": "Complete traumatic trnsphal amputation of r mid finger",
+    "user": "rbarefordd"
+  },
+  {
+    "id": 15,
+    "date": "10/18/2023",
+    "code": "US-AK",
+    "name": "Agace Cuardall",
+    "quantity": 14.06,
+    "sale_Price": 3388.87,
+    "remark": "Sprain of interphalangeal joint of unsp lesser toe(s), subs",
+    "user": "acuardalle"
+  },
+  {
+    "id": 16,
+    "date": "4/17/2023",
+    "code": "LS-E",
+    "name": "Thornton Beane",
+    "quantity": 16.56,
+    "sale_Price": 3916.44,
+    "remark": "Brucellosis due to Brucella suis",
+    "user": "tbeanef"
+  },
+  {
+    "id": 17,
+    "date": "3/23/2023",
+    "code": "CN-15",
+    "name": "Reynolds McNaught",
+    "quantity": 19.85,
+    "sale_Price": 2399.06,
+    "remark": "Nondisp oblique fx shaft of unsp rad, 7thM",
+    "user": "rmcnaughtg"
+  },
+  {
+    "id": 18,
+    "date": "6/15/2023",
+    "code": "CN-34",
+    "name": "Johanna Butner",
+    "quantity": 18.89,
+    "sale_Price": 4224.97,
+    "remark": "Person outside bus injured in clsn w statnry object in traf",
+    "user": "jbutnerh"
+  },
+  {
+    "id": 19,
+    "date": "2/26/2023",
+    "code": "PG-MPL",
+    "name": "Kerwin Stallworth",
+    "quantity": 8.3,
+    "sale_Price": 1243.46,
+    "remark": "Poisoning by predom beta-adrenocpt agonists, assault, subs",
+    "user": "kstallworthi"
+  },
+  {
+    "id": 20,
+    "date": "8/10/2023",
+    "code": "US-TN",
+    "name": "Verene Roomes",
+    "quantity": 14.98,
+    "sale_Price": 1061.59,
+    "remark": "Laceration of other part of small intestine",
+    "user": "vroomesj"
+  },
+  {
+    "id": 21,
+    "date": "10/14/2023",
+    "code": "BG-19",
+    "name": "Leta Tinsey",
+    "quantity": 14.39,
+    "sale_Price": 2286.19,
+    "remark": "Athscl unsp type bypass of right leg w ulcer oth prt low leg",
+    "user": "ltinseyk"
+  },
+  {
+    "id": 22,
+    "date": "7/25/2023",
+    "code": "CN-41",
+    "name": "Frederic Hazeltine",
+    "quantity": 17.67,
+    "sale_Price": 2019.97,
+    "remark": "Retained (nonmagnetic) (old) foreign body in lens, left eye",
+    "user": "fhazeltinel"
+  },
+  {
+    "id": 23,
+    "date": "7/26/2023",
+    "code": "US-CA",
+    "name": "Carline Minithorpe",
+    "quantity": 6.53,
+    "sale_Price": 2819.44,
+    "remark": "Displ midcervical fx unsp femr, 7thG",
+    "user": "cminithorpem"
+  },
+  {
+    "id": 24,
+    "date": "7/11/2023",
+    "code": "KE-500",
+    "name": "Cosette Peachman",
+    "quantity": 16.73,
+    "sale_Price": 2679.9,
+    "remark": "Disorders of muscle in diseases classd elswhr, r up arm",
+    "user": "cpeachmann"
+  },
+  {
+    "id": 25,
+    "date": "1/24/2024",
+    "code": "BR-RJ",
+    "name": "Erda Cottom",
+    "quantity": 12.76,
+    "sale_Price": 2145.04,
+    "remark": "10 weeks gestation of pregnancy",
+    "user": "ecottomo"
+  },
+  {
+    "id": 26,
+    "date": "10/11/2023",
+    "code": "MW-SA",
+    "name": "Alfonse Kinkade",
+    "quantity": 5.71,
+    "sale_Price": 2517.0,
+    "remark": "Gout due to renal impairment, left hand",
+    "user": "akinkadep"
+  },
+  {
+    "id": 27,
+    "date": "3/29/2023",
+    "code": "US-AK",
+    "name": "Chrysler Sketch",
+    "quantity": 2.68,
+    "sale_Price": 4680.87,
+    "remark": "Postinfective and reactive arthropathies",
+    "user": "csketchq"
+  },
+  {
+    "id": 28,
+    "date": "1/3/2024",
+    "code": "CI-05",
+    "name": "Suzanne Winspeare",
+    "quantity": 14.71,
+    "sale_Price": 2935.96,
+    "remark": "Other fracture of lower end of femur",
+    "user": "swinspearer"
+  },
+  {
+    "id": 29,
+    "date": "11/16/2023",
+    "code": "SO-TO",
+    "name": "Yolane Lehrahan",
+    "quantity": 16.45,
+    "sale_Price": 2133.77,
+    "remark": "Nondisp spiral fx shaft of rad, r arm, 7thK",
+    "user": "ylehrahans"
+  },
+  {
+    "id": 30,
+    "date": "5/3/2023",
+    "code": "IR-25",
+    "name": "Reed Longo",
+    "quantity": 3.78,
+    "sale_Price": 3684.42,
+    "remark": "Displacement of int fix of bone of left lower leg, init",
+    "user": "rlongot"
+  },
+  {
+    "id": 31,
+    "date": "10/3/2023",
+    "code": "MX-ROO",
+    "name": "Earlie Doag",
+    "quantity": 19.78,
+    "sale_Price": 3299.55,
+    "remark": "Traumatic rupture of thoracic intervertebral disc, init",
+    "user": "edoagu"
+  },
+  {
+    "id": 32,
+    "date": "11/1/2023",
+    "code": "ML-3",
+    "name": "Yovonnda Thomazet",
+    "quantity": 16.5,
+    "sale_Price": 2299.1,
+    "remark": "Disp fx of posterior wall of unspecified acetabulum",
+    "user": "ythomazetv"
+  },
+  {
+    "id": 33,
+    "date": "5/9/2023",
+    "code": "IR-24",
+    "name": "Melonie Draude",
+    "quantity": 19.87,
+    "sale_Price": 4220.33,
+    "remark": "Pnctr w fb of left lesser toe(s) w/o damage to nail, sequela",
+    "user": "mdraudew"
+  },
+  {
+    "id": 34,
+    "date": "5/12/2023",
+    "code": "FI-LS",
+    "name": "Tait O'Longain",
+    "quantity": 6.17,
+    "sale_Price": 1653.59,
+    "remark": "Anterior sublux of proximal end of tibia, left knee, subs",
+    "user": "tolongainx"
+  },
+  {
+    "id": 35,
+    "date": "1/29/2024",
+    "code": "US-AK",
+    "name": "Brendin Feldmann",
+    "quantity": 17.89,
+    "sale_Price": 3115.01,
+    "remark": "Oth physl fx upper end rad, left arm, subs for fx w malunion",
+    "user": "bfeldmanny"
+  },
+  {
+    "id": 36,
+    "date": "3/22/2023",
+    "code": "RU-IVA",
+    "name": "Cornie Grocutt",
+    "quantity": 5.43,
+    "sale_Price": 3806.29,
+    "remark": "Breakdown (mechanical) of indwelling urethral catheter",
+    "user": "cgrocuttz"
+  },
+  {
+    "id": 37,
+    "date": "9/6/2023",
+    "code": "AU-NSW",
+    "name": "Jojo Taile",
+    "quantity": 12.83,
+    "sale_Price": 2105.72,
+    "remark": "Laceration of superfic vn at shldr/up arm, right arm, subs",
+    "user": "jtaile10"
+  },
+  {
+    "id": 38,
+    "date": "8/3/2023",
+    "code": "US-NM",
+    "name": "Markus Stedson",
+    "quantity": 11.96,
+    "sale_Price": 2471.7,
+    "remark": "Retain (old) intraoc fb, magnet, in oth or mult sites, l eye",
+    "user": "mstedson11"
+  },
+  {
+    "id": 39,
+    "date": "11/18/2023",
+    "code": "NE-1",
+    "name": "Welch Heaney",
+    "quantity": 18.69,
+    "sale_Price": 4987.96,
+    "remark": "Alternating exotropia with other noncomitancies",
+    "user": "wheaney12"
+  },
+  {
+    "id": 40,
+    "date": "12/28/2023",
+    "code": "NZ-OTA",
+    "name": "Kanya Hendonson",
+    "quantity": 18.56,
+    "sale_Price": 1365.62,
+    "remark": "Laceration of sigmoid colon, initial encounter",
+    "user": "khendonson13"
+  },
+  {
+    "id": 41,
+    "date": "6/4/2023",
+    "code": "NZ-CAN",
+    "name": "Gert Bridgman",
+    "quantity": 4.32,
+    "sale_Price": 3725.85,
+    "remark": "Strain of unsp musc/fasc/tend at wrs/hnd lv, r hand, init",
+    "user": "gbridgman14"
+  },
+  {
+    "id": 42,
+    "date": "3/17/2023",
+    "code": "PE-LIM",
+    "name": "Etta Dennerley",
+    "quantity": 14.48,
+    "sale_Price": 3292.13,
+    "remark": "Oth fx fifth MC bone, left hand, subs for fx w delay heal",
+    "user": "edennerley15"
+  },
+  {
+    "id": 43,
+    "date": "12/17/2023",
+    "code": "BR-SC",
+    "name": "Rafe Camelin",
+    "quantity": 11.49,
+    "sale_Price": 2973.47,
+    "remark": "Other non-follicular lymphoma, unspecified site",
+    "user": "rcamelin16"
+  },
+  {
+    "id": 44,
+    "date": "4/14/2023",
+    "code": "CA-NU",
+    "name": "Molli De Biasio",
+    "quantity": 19.89,
+    "sale_Price": 3046.99,
+    "remark": "Toxic eff of unsp halgn deriv of aromat hydrocrb, acc, subs",
+    "user": "mde17"
+  },
+  {
+    "id": 45,
+    "date": "3/21/2023",
+    "code": "TR-12",
+    "name": "Frants Thulborn",
+    "quantity": 17.32,
+    "sale_Price": 2806.44,
+    "remark": "Nondisp transverse fx unsp patella, 7thC",
+    "user": "fthulborn18"
+  },
+  {
+    "id": 46,
+    "date": "7/15/2023",
+    "code": "JP-43",
+    "name": "Elayne Yele",
+    "quantity": 5.6,
+    "sale_Price": 2779.64,
+    "remark": "Unsp fracture of unsp wrist and hand, subs for fx w nonunion",
+    "user": "eyele19"
+  },
+  {
+    "id": 47,
+    "date": "10/29/2023",
+    "code": "US-NM",
+    "name": "Beitris Cattel",
+    "quantity": 10.83,
+    "sale_Price": 3665.35,
+    "remark": "Injury of heart with hemopericardium",
+    "user": "bcattel1a"
+  },
+  {
+    "id": 48,
+    "date": "3/30/2023",
+    "code": "MZ-Q",
+    "name": "Murray Burr",
+    "quantity": 12.91,
+    "sale_Price": 2567.88,
+    "remark": "Unsp focal TBI w LOC w death d/t brain injury bf consc, subs",
+    "user": "mburr1b"
+  },
+  {
+    "id": 49,
+    "date": "3/31/2023",
+    "code": "AU-NT",
+    "name": "Mari Cornelis",
+    "quantity": 6.78,
+    "sale_Price": 3031.01,
+    "remark": "Cerebral infarction due to embolism of carotid artery",
+    "user": "mcornelis1c"
+  },
+  {
+    "id": 50,
+    "date": "5/30/2023",
+    "code": "IT-82",
+    "name": "Karoly Reiach",
+    "quantity": 9.86,
+    "sale_Price": 2522.0,
+    "remark": "Laceration of unspecified part of small intestine",
+    "user": "kreiach1d"
+  }
+]

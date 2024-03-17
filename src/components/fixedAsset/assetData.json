@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "date": "11/18/2023",
+    "field": "Culebrita Island Water-willow",
+    "description": "Insert of Ring Ext Fix into R Humeral Shaft, Perc Approach",
+    "spend_by": "Roderick",
+    "quantity": 5,
+    "amount": 6192,
+    "showroom": "Boyer-Johnson"
+  },
+  {
+    "id": 2,
+    "date": "7/1/2023",
+    "field": "Narrowleaf Skullcap",
+    "description": "Destruction of Right Fibula, Percutaneous Approach",
+    "spend_by": "Addi",
+    "quantity": 8,
+    "amount": 40384,
+    "showroom": "Koelpin-White"
+  },
+  {
+    "id": 3,
+    "date": "4/22/2023",
+    "field": "Snowqueen",
+    "description": "Dilation of Right Lesser Saphenous Vein, Perc Approach",
+    "spend_by": "Marjory",
+    "quantity": 4,
+    "amount": 60980,
+    "showroom": "Wyman-Schaden"
+  },
+  {
+    "id": 4,
+    "date": "4/25/2023",
+    "field": "Windowbox Woodsorrel",
+    "description": "Dilation of R Innom Vein with Intralum Dev, Open Approach",
+    "spend_by": "Lauree",
+    "quantity": 5,
+    "amount": 15131,
+    "showroom": "McLaughlin-Nitzsche"
+  },
+  {
+    "id": 5,
+    "date": "9/22/2023",
+    "field": "Sarita Rosette Grass",
+    "description": "Revision of Neuro Lead in Cranial Nrv, Extern Approach",
+    "spend_by": "Griffy",
+    "quantity": 10,
+    "amount": 3256,
+    "showroom": "Romaguera-Ortiz"
+  },
+  {
+    "id": 6,
+    "date": "2/23/2023",
+    "field": "Cartilage Lichen",
+    "description": "Supplement R Sternoclav Jt w Nonaut Sub, Perc Endo",
+    "spend_by": "Nicolina",
+    "quantity": 4,
+    "amount": 46695,
+    "showroom": "Abshire-Padberg"
+  },
+  {
+    "id": 7,
+    "date": "11/6/2023",
+    "field": "Pacific Gilia",
+    "description": "Supplement R Acromioclav Jt with Nonaut Sub, Perc Approach",
+    "spend_by": "Milty",
+    "quantity": 1,
+    "amount": 86677,
+    "showroom": "Dickinson-Barton"
+  },
+  {
+    "id": 8,
+    "date": "10/16/2023",
+    "field": "Slough Thistle",
+    "description": "Restriction of L Up Lobe Bronc with Intralum Dev, Endo",
+    "spend_by": "Aguie",
+    "quantity": 5,
+    "amount": 31898,
+    "showroom": "Paucek Inc"
+  },
+  {
+    "id": 9,
+    "date": "5/14/2023",
+    "field": "Paulia Lichen",
+    "description": "Coord/Dexterity Trmt Neuro Low Back/LE w Assist Equip",
+    "spend_by": "Terrye",
+    "quantity": 6,
+    "amount": 3220,
+    "showroom": "Reichert Group"
+  },
+  {
+    "id": 10,
+    "date": "5/9/2023",
+    "field": "Wilcox's Nipple Cactus",
+    "description": "Insert of Infusion Dev into Pericard Cav, Perc Endo Approach",
+    "spend_by": "Tamara",
+    "quantity": 1,
+    "amount": 36655,
+    "showroom": "Fritsch-Kuphal"
+  },
+  {
+    "id": 11,
+    "date": "8/10/2023",
+    "field": "Cracked Lichen",
+    "description": "Drainage of Left Axillary Artery, Perc Endo Approach",
+    "spend_by": "Griffy",
+    "quantity": 3,
+    "amount": 74655,
+    "showroom": "Bernhard-Waters"
+  },
+  {
+    "id": 12,
+    "date": "3/4/2023",
+    "field": "Leavenworth's Goldenrod",
+    "description": "Removal of Monitoring Device from Left Lung, Via Opening",
+    "spend_by": "Curt",
+    "quantity": 1,
+    "amount": 954,
+    "showroom": "Johnson LLC"
+  },
+  {
+    "id": 13,
+    "date": "3/25/2023",
+    "field": "Heermann's Buckwheat",
+    "description": "Bypass R Pulm Art from Subclav with Autol Art, Open Approach",
+    "spend_by": "Marietta",
+    "quantity": 2,
+    "amount": 4475,
+    "showroom": "Kautzer-Considine"
+  },
+  {
+    "id": 14,
+    "date": "8/2/2023",
+    "field": "Father-and-child Plant",
+    "description": "Repair Left Lower Extremity, Percutaneous Approach",
+    "spend_by": "Zondra",
+    "quantity": 1,
+    "amount": 89208,
+    "showroom": "Reynolds-Collins"
+  },
+  {
+    "id": 15,
+    "date": "3/18/2023",
+    "field": "Datura",
+    "description": "Supplement Tongue/Palate/Phar Muscle w Nonaut Sub, Open",
+    "spend_by": "Eirena",
+    "quantity": 3,
+    "amount": 8669,
+    "showroom": "Ullrich, Ritchie and Murray"
+  },
+  {
+    "id": 16,
+    "date": "10/28/2023",
+    "field": "Catchfly",
+    "description": "Creation of Vagina in Male Perineum, Open Approach",
+    "spend_by": "Dania",
+    "quantity": 1,
+    "amount": 9044,
+    "showroom": "Bechtelar, Johnston and Feest"
+  },
+  {
+    "id": 17,
+    "date": "7/14/2023",
+    "field": "Longflower Threadplant",
+    "description": "Oscillating Tracking Assess w Vestib/Balance Equip",
+    "spend_by": "Zita",
+    "quantity": 1,
+    "amount": 56089,
+    "showroom": "Strosin LLC"
+  },
+  {
+    "id": 18,
+    "date": "9/5/2023",
+    "field": "Cuman Ragweed",
+    "description": "Insertion of Int Fix into R Humeral Head, Open Approach",
+    "spend_by": "Carney",
+    "quantity": 8,
+    "amount": 44361,
+    "showroom": "Rau, Goyette and Herzog"
+  },
+  {
+    "id": 19,
+    "date": "12/12/2023",
+    "field": "Shrubby Blackberry",
+    "description": "Assistance with Cardiac Output using Other Pump, Continuous",
+    "spend_by": "Joli",
+    "quantity": 2,
+    "amount": 72835,
+    "showroom": "Grimes, Powlowski and Kunze"
+  },
+  {
+    "id": 20,
+    "date": "1/18/2024",
+    "field": "Dyckia",
+    "description": "Resection of Cervicothoracic Vertebral Joint, Open Approach",
+    "spend_by": "Eddi",
+    "quantity": 10,
+    "amount": 98776,
+    "showroom": "Friesen-Conn"
+  },
+  {
+    "id": 21,
+    "date": "11/2/2023",
+    "field": "Lanceleaf Springbeauty",
+    "description": "Replacement of Lumsac Jt with Autol Sub, Open Approach",
+    "spend_by": "Krispin",
+    "quantity": 10,
+    "amount": 31680,
+    "showroom": "Fritsch-Hessel"
+  },
+  {
+    "id": 22,
+    "date": "8/31/2023",
+    "field": "Diplotomma Lichen",
+    "description": "Female Reproductive System, Reposition",
+    "spend_by": "Guillemette",
+    "quantity": 2,
+    "amount": 38248,
+    "showroom": "Morissette-Satterfield"
+  },
+  {
+    "id": 23,
+    "date": "7/7/2023",
+    "field": "Niihau Panicgrass",
+    "description": "Bypass R Great Saphenous to Low Vein w Autol Vn, Perc Endo",
+    "spend_by": "Earvin",
+    "quantity": 7,
+    "amount": 37830,
+    "showroom": "Klocko and Sons"
+  },
+  {
+    "id": 24,
+    "date": "4/19/2023",
+    "field": "Toothed Dock",
+    "description": "Introduction of Monoclonal Antibody into GU Tract, Endo",
+    "spend_by": "Mag",
+    "quantity": 2,
+    "amount": 15919,
+    "showroom": "Leffler-O'Hara"
+  },
+  {
+    "id": 25,
+    "date": "3/3/2023",
+    "field": "Wart Lichen",
+    "description": "Insert of Infusion Dev into L Com Iliac Vein, Perc Approach",
+    "spend_by": "Faustine",
+    "quantity": 5,
+    "amount": 77084,
+    "showroom": "Schmitt-Schumm"
+  },
+  {
+    "id": 26,
+    "date": "7/6/2023",
+    "field": "Chapman's Fringed Orchid",
+    "description": "Supplement L Up Lobe Bronc w Nonaut Sub, Perc Endo",
+    "spend_by": "Lewes",
+    "quantity": 9,
+    "amount": 95029,
+    "showroom": "Gerhold, Price and Tremblay"
+  },
+  {
+    "id": 27,
+    "date": "2/18/2023",
+    "field": "Florida Scrub Frostweed",
+    "description": "Fusion Occip Jt w Intbd Fus Dev, Ant Appr A Col, Perc",
+    "spend_by": "Kordula",
+    "quantity": 1,
+    "amount": 39614,
+    "showroom": "Ebert-Ebert"
+  },
+  {
+    "id": 28,
+    "date": "3/6/2023",
+    "field": "Welsh Mudwort",
+    "description": "Insertion of Intraluminal Device into Trachea, Endo",
+    "spend_by": "Penn",
+    "quantity": 7,
+    "amount": 78314,
+    "showroom": "Prosacco-Effertz"
+  },
+  {
+    "id": 29,
+    "date": "8/8/2023",
+    "field": "Charity",
+    "description": "Bypass R Subclav Art to R Up Leg Art w Autol Vn, Open",
+    "spend_by": "Samuele",
+    "quantity": 3,
+    "amount": 90590,
+    "showroom": "Murphy Inc"
+  },
+  {
+    "id": 30,
+    "date": "9/23/2023",
+    "field": "Wild Petunia",
+    "description": "Revision of Extraluminal Device in Heart, External Approach",
+    "spend_by": "Sigvard",
+    "quantity": 10,
+    "amount": 47797,
+    "showroom": "Kuhic Group"
+  },
+  {
+    "id": 31,
+    "date": "6/18/2023",
+    "field": "Tortula Moss",
+    "description": "Dilate of L Peroneal Art with 2 Intralum Dev, Open Approach",
+    "spend_by": "Chickie",
+    "quantity": 4,
+    "amount": 13959,
+    "showroom": "Murray, Hackett and Skiles"
+  },
+  {
+    "id": 32,
+    "date": "11/9/2023",
+    "field": "Stone Bramble",
+    "description": "Lower Joints, Excision",
+    "spend_by": "Cazzie",
+    "quantity": 8,
+    "amount": 52128,
+    "showroom": "Abbott, Koelpin and Lubowitz"
+  },
+  {
+    "id": 33,
+    "date": "2/7/2023",
+    "field": "Hollyleaf Redberry",
+    "description": "Repair Endocrine Sys in POC with Oth Dev, Perc Endo Approach",
+    "spend_by": "Stella",
+    "quantity": 7,
+    "amount": 78138,
+    "showroom": "Runolfsson, Durgan and Marks"
+  },
+  {
+    "id": 34,
+    "date": "8/27/2023",
+    "field": "Western Tansymustard",
+    "description": "Insert of Infusion Dev into L Femoral Region, Open Approach",
+    "spend_by": "Mari",
+    "quantity": 1,
+    "amount": 68618,
+    "showroom": "Kertzmann, Ferry and Botsford"
+  },
+  {
+    "id": 35,
+    "date": "2/15/2023",
+    "field": "Harlequinbush",
+    "description": "Destruction of Left Ankle Bursa and Ligament, Open Approach",
+    "spend_by": "Zena",
+    "quantity": 5,
+    "amount": 80185,
+    "showroom": "Beier LLC"
+  },
+  {
+    "id": 36,
+    "date": "6/2/2023",
+    "field": "Silver Wattle",
+    "description": "Replacement of R Hip Tendon with Synth Sub, Open Approach",
+    "spend_by": "Rabi",
+    "quantity": 2,
+    "amount": 62810,
+    "showroom": "Satterfield-D'Amore"
+  },
+  {
+    "id": 37,
+    "date": "5/5/2023",
+    "field": "Parmotrema Lichen",
+    "description": "Fusion of R Temporomandib Jt with Int Fix, Open Approach",
+    "spend_by": "Sibbie",
+    "quantity": 7,
+    "amount": 925,
+    "showroom": "Kuhn-Zieme"
+  },
+  {
+    "id": 38,
+    "date": "10/20/2023",
+    "field": "Parachute Sedge",
+    "description": "Restrict of R Foot Art with Extralum Dev, Perc Endo Approach",
+    "spend_by": "Debor",
+    "quantity": 1,
+    "amount": 77620,
+    "showroom": "Rippin Inc"
+  },
+  {
+    "id": 39,
+    "date": "11/27/2023",
+    "field": "Larchleaf Beardtongue",
+    "description": "Repair Carina, Percutaneous Approach",
+    "spend_by": "Arleta",
+    "quantity": 4,
+    "amount": 67265,
+    "showroom": "Kiehn, Conn and Braun"
+  },
+  {
+    "id": 40,
+    "date": "9/9/2023",
+    "field": "Spotted Water Hemlock",
+    "description": "Dilation of Splenic Artery with 3 Drug-elut, Perc Approach",
+    "spend_by": "Valentine",
+    "quantity": 8,
+    "amount": 51760,
+    "showroom": "Lubowitz-Braun"
+  },
+  {
+    "id": 41,
+    "date": "12/14/2023",
+    "field": "Trinity Penstemon",
+    "description": "Insertion of Monitoring Device into Liver, Open Approach",
+    "spend_by": "Eulalie",
+    "quantity": 4,
+    "amount": 7899,
+    "showroom": "Bartoletti, Marvin and Heller"
+  },
+  {
+    "id": 42,
+    "date": "1/13/2024",
+    "field": "Thurber's Checkerbloom",
+    "description": "Drainage of Right Peroneal Artery, Perc Endo Approach",
+    "spend_by": "Nadean",
+    "quantity": 5,
+    "amount": 64923,
+    "showroom": "Heidenreich LLC"
+  },
+  {
+    "id": 43,
+    "date": "9/23/2023",
+    "field": "Hylocomium Feather Moss",
+    "description": "Drainage of Left Vocal Cord with Drain Dev, Perc Approach",
+    "spend_by": "Lyssa",
+    "quantity": 7,
+    "amount": 35219,
+    "showroom": "Altenwerth, Schiller and Larson"
+  },
+  {
+    "id": 44,
+    "date": "12/30/2023",
+    "field": "Thermutis Lichen",
+    "description": "Repair Right Vocal Cord, Endo",
+    "spend_by": "Harmonia",
+    "quantity": 5,
+    "amount": 87348,
+    "showroom": "Oberbrunner-Funk"
+  },
+  {
+    "id": 45,
+    "date": "5/11/2023",
+    "field": "Lidgate's Brake",
+    "description": "Excision of Left Ankle Joint, Perc Endo Approach, Diagn",
+    "spend_by": "Osborn",
+    "quantity": 10,
+    "amount": 92203,
+    "showroom": "Pagac-Stracke"
+  },
+  {
+    "id": 46,
+    "date": "7/20/2023",
+    "field": "Tracy's Silkgrass",
+    "description": "CT Scan of Cereb Vent using Oth Contrast",
+    "spend_by": "Onfre",
+    "quantity": 10,
+    "amount": 1724,
+    "showroom": "Dickinson Group"
+  },
+  {
+    "id": 47,
+    "date": "2/3/2023",
+    "field": "Pineland Pinweed",
+    "description": "Caregiver Training in Applic/Use/Care Dev using Prosthesis",
+    "spend_by": "Carly",
+    "quantity": 9,
+    "amount": 88357,
+    "showroom": "Funk, Abernathy and Wolf"
+  },
+  {
+    "id": 48,
+    "date": "1/8/2024",
+    "field": "Holmgren's Lupine",
+    "description": "Fluoroscopy of Left Fallopian Tube using Other Contrast",
+    "spend_by": "Nixie",
+    "quantity": 2,
+    "amount": 56919,
+    "showroom": "Rath and Sons"
+  },
+  {
+    "id": 49,
+    "date": "9/8/2023",
+    "field": "Horehound",
+    "description": "Removal of Nonaut Sub from L Up Femur, Perc Endo Approach",
+    "spend_by": "Budd",
+    "quantity": 9,
+    "amount": 80138,
+    "showroom": "Gerlach Inc"
+  },
+  {
+    "id": 50,
+    "date": "8/3/2023",
+    "field": "Oregon Ash",
+    "description": "Replacement of Urethra with Nonaut Sub, Endo",
+    "spend_by": "Ronnie",
+    "quantity": 8,
+    "amount": 35244,
+    "showroom": "Blanda and Sons"
+  },
+  {
+    "id": 51,
+    "date": "4/20/2023",
+    "field": "Dot Lichen",
+    "description": "Drainage of Ileocecal Valve, Endo, Diagn",
+    "spend_by": "Lynsey",
+    "quantity": 3,
+    "amount": 43715,
+    "showroom": "Ortiz-Lehner"
+  },
+  {
+    "id": 52,
+    "date": "5/5/2023",
+    "field": "Morro Milkvetch",
+    "description": "Restriction of Pelvis Lymphatic, Open Approach",
+    "spend_by": "Clarissa",
+    "quantity": 4,
+    "amount": 71200,
+    "showroom": "Sporer and Sons"
+  },
+  {
+    "id": 53,
+    "date": "6/1/2023",
+    "field": "Prostrate Milkweed",
+    "description": "Revise Infusion Dev in Trunk Subcu/Fascia, Extern",
+    "spend_by": "Ellie",
+    "quantity": 9,
+    "amount": 75955,
+    "showroom": "Considine-Daniel"
+  },
+  {
+    "id": 54,
+    "date": "5/12/2023",
+    "field": "Mojave Cleomella",
+    "description": "Occlusion of Anus with Intraluminal Device, Open Approach",
+    "spend_by": "Stace",
+    "quantity": 2,
+    "amount": 47183,
+    "showroom": "Kshlerin-Mann"
+  },
+  {
+    "id": 55,
+    "date": "1/11/2024",
+    "field": "Southwestern Muhly",
+    "description": "Dilation of Uterus with Intralum Dev, Perc Endo Approach",
+    "spend_by": "Maurits",
+    "quantity": 10,
+    "amount": 46220,
+    "showroom": "Walsh-Hane"
+  },
+  {
+    "id": 56,
+    "date": "7/21/2023",
+    "field": "Puerto Rico Sensitive-briar",
+    "description": "Drainage of Left Upper Arm, Percutaneous Approach, Diagn",
+    "spend_by": "Aida",
+    "quantity": 6,
+    "amount": 93392,
+    "showroom": "Wintheiser-Hudson"
+  },
+  {
+    "id": 57,
+    "date": "8/30/2023",
+    "field": "Tufted Cryptantha",
+    "description": "Muscle Perform Assess Musculosk Up Back/UE w Orthosis",
+    "spend_by": "Steve",
+    "quantity": 9,
+    "amount": 55466,
+    "showroom": "Parker-Lindgren"
+  },
+  {
+    "id": 58,
+    "date": "1/28/2023",
+    "field": "Map Lichen",
+    "description": "Bypass Right Face Vein to Upper Vein, Open Approach",
+    "spend_by": "Howard",
+    "quantity": 7,
+    "amount": 36208,
+    "showroom": "Ruecker Group"
+  },
+  {
+    "id": 59,
+    "date": "7/15/2023",
+    "field": "Mayacamas Popcornflower",
+    "description": "Revision of Intraluminal Device in Pancreatic Duct, Endo",
+    "spend_by": "Lamond",
+    "quantity": 5,
+    "amount": 94815,
+    "showroom": "Mueller, Zemlak and Auer"
+  },
+  {
+    "id": 60,
+    "date": "7/29/2023",
+    "field": "Dogbane",
+    "description": "Insertion of Feeding Device into Stomach, Open Approach",
+    "spend_by": "Vernor",
+    "quantity": 2,
+    "amount": 43810,
+    "showroom": "Bergnaum, Lakin and Douglas"
+  },
+  {
+    "id": 61,
+    "date": "10/16/2023",
+    "field": "Kobuk Locoweed",
+    "description": "Removal of Infusion Device from Penis, Perc Endo Approach",
+    "spend_by": "Lana",
+    "quantity": 6,
+    "amount": 90780,
+    "showroom": "Sanford, Breitenberg and White"
+  },
+  {
+    "id": 62,
+    "date": "12/19/2023",
+    "field": "San Antonio Stoneseed",
+    "description": "Extirpation of Matter from Right Middle Ear, Open Approach",
+    "spend_by": "Hilliard",
+    "quantity": 10,
+    "amount": 98981,
+    "showroom": "Murphy, Denesik and Daugherty"
+  },
+  {
+    "id": 63,
+    "date": "12/22/2023",
+    "field": "Poorjoe",
+    "description": "Inspection of Left Inner Ear, Open Approach",
+    "spend_by": "Neall",
+    "quantity": 6,
+    "amount": 47286,
+    "showroom": "Bogan-Wiegand"
+  },
+  {
+    "id": 64,
+    "date": "1/6/2024",
+    "field": "Rubber Rabbitbrush",
+    "description": "Removal of Autol Sub from Nasal Bone, Open Approach",
+    "spend_by": "Alyse",
+    "quantity": 3,
+    "amount": 88867,
+    "showroom": "Brakus Group"
+  },
+  {
+    "id": 65,
+    "date": "1/11/2024",
+    "field": "Lehua 'ahihi",
+    "description": "Drainage of Tongue, Palate, Pharynx Muscle, Perc Approach",
+    "spend_by": "Justinn",
+    "quantity": 6,
+    "amount": 83616,
+    "showroom": "Erdman, Schumm and Turcotte"
+  },
+  {
+    "id": 66,
+    "date": "2/21/2023",
+    "field": "Cucumberleaf Sunflower",
+    "description": "Tomo Nucl Med Imag of R Breast using Technetium 99m",
+    "spend_by": "Almira",
+    "quantity": 10,
+    "amount": 75913,
+    "showroom": "Harvey, Morissette and Shields"
+  },
+  {
+    "id": 67,
+    "date": "4/1/2023",
+    "field": "Woodvamp",
+    "description": "Fragmentation in Left Vitreous, External Approach",
+    "spend_by": "Zaria",
+    "quantity": 1,
+    "amount": 95052,
+    "showroom": "Steuber Inc"
+  },
+  {
+    "id": 68,
+    "date": "7/11/2023",
+    "field": "Southern California Walnut",
+    "description": "Inspection of Right Metatarsal-Tarsal Joint, Extern Approach",
+    "spend_by": "Deeanne",
+    "quantity": 9,
+    "amount": 60676,
+    "showroom": "Goodwin Group"
+  },
+  {
+    "id": 69,
+    "date": "11/10/2023",
+    "field": "Texas False Broomweed",
+    "description": "Voice Prosthetic Device Fit using Voice Analysis Equipment",
+    "spend_by": "Renie",
+    "quantity": 3,
+    "amount": 14035,
+    "showroom": "Casper-Reinger"
+  },
+  {
+    "id": 70,
+    "date": "5/14/2023",
+    "field": "Peach Palm",
+    "description": "Excision of L Sternoclav Jt, Perc Endo Approach, Diagn",
+    "spend_by": "Way",
+    "quantity": 5,
+    "amount": 32510,
+    "showroom": "Nicolas, Herman and Paucek"
+  },
+  {
+    "id": 71,
+    "date": "1/19/2024",
+    "field": "Sheathed Wildparsley",
+    "description": "Fusion of Right Hip Joint, Open Approach",
+    "spend_by": "Ignacius",
+    "quantity": 1,
+    "amount": 91668,
+    "showroom": "Bauch, Reilly and Ebert"
+  },
+  {
+    "id": 72,
+    "date": "8/13/2023",
+    "field": "Prickly Rose",
+    "description": "Bypass R Com Iliac Art to L Ext Ilia, Perc Endo Approach",
+    "spend_by": "Manfred",
+    "quantity": 5,
+    "amount": 28428,
+    "showroom": "Langosh, Aufderhar and Fahey"
+  },
+  {
+    "id": 73,
+    "date": "1/13/2024",
+    "field": "Masterwort",
+    "description": "Drainage of Left Large Intestine, Perc Approach, Diagn",
+    "spend_by": "Sue",
+    "quantity": 3,
+    "amount": 13073,
+    "showroom": "Larson and Sons"
+  },
+  {
+    "id": 74,
+    "date": "4/28/2023",
+    "field": "Jusillo",
+    "description": "Fluoroscopy Cereb & Cerebel Vein w H Osm Contrast, Guidance",
+    "spend_by": "Ambrosio",
+    "quantity": 3,
+    "amount": 88212,
+    "showroom": "Gleichner, Rau and Johnston"
+  },
+  {
+    "id": 75,
+    "date": "6/1/2023",
+    "field": "White Snakeroot",
+    "description": "Destruction of Lower Tooth, Single, Open Approach",
+    "spend_by": "Olivier",
+    "quantity": 1,
+    "amount": 76972,
+    "showroom": "Denesik and Sons"
+  },
+  {
+    "id": 76,
+    "date": "1/17/2024",
+    "field": "Cyrtandra",
+    "description": "Repair Right Greater Saphenous Vein, Open Approach",
+    "spend_by": "Illa",
+    "quantity": 1,
+    "amount": 67221,
+    "showroom": "Kozey LLC"
+  },
+  {
+    "id": 77,
+    "date": "10/27/2023",
+    "field": "Fascicled Beaksedge",
+    "description": "Insertion of Int Fix into L Metatarsotars Jt, Perc Approach",
+    "spend_by": "Raymond",
+    "quantity": 6,
+    "amount": 65372,
+    "showroom": "Metz-Lowe"
+  },
+  {
+    "id": 78,
+    "date": "6/22/2023",
+    "field": "Governor's Plum",
+    "description": "Release Right Parotid Duct, Open Approach",
+    "spend_by": "Raleigh",
+    "quantity": 8,
+    "amount": 11776,
+    "showroom": "Heathcote-Bernhard"
+  },
+  {
+    "id": 79,
+    "date": "5/19/2023",
+    "field": "San Felipe Dogweed",
+    "description": "Excision of Right Kidney Pelvis, Perc Approach, Diagn",
+    "spend_by": "Karee",
+    "quantity": 7,
+    "amount": 62596,
+    "showroom": "Kozey-Hintz"
+  },
+  {
+    "id": 80,
+    "date": "3/1/2023",
+    "field": "Hybrid Oak",
+    "description": "Restrict R Low Lobe Bronc w Extralum Dev, Open",
+    "spend_by": "Travers",
+    "quantity": 4,
+    "amount": 2481,
+    "showroom": "Gorczany, Hirthe and Wisoky"
+  },
+  {
+    "id": 81,
+    "date": "6/29/2023",
+    "field": "Purpleflower Pinkroot",
+    "description": "Restriction of Left Brachial Artery, Percutaneous Approach",
+    "spend_by": "Gabi",
+    "quantity": 2,
+    "amount": 55017,
+    "showroom": "Bogan, Roob and Abernathy"
+  },
+  {
+    "id": 82,
+    "date": "3/3/2023",
+    "field": "Hawai'i Vetch",
+    "description": "Drainage of Left Pleura, Percutaneous Approach",
+    "spend_by": "Marcile",
+    "quantity": 7,
+    "amount": 14312,
+    "showroom": "Rogahn-Moore"
+  },
+  {
+    "id": 83,
+    "date": "5/21/2023",
+    "field": "Narrowleaf Saw-wort",
+    "description": "Destruction of Prepuce, Open Approach",
+    "spend_by": "Lilllie",
+    "quantity": 3,
+    "amount": 73412,
+    "showroom": "Boyer Group"
+  },
+  {
+    "id": 84,
+    "date": "9/21/2023",
+    "field": "Boldo",
+    "description": "Replace of Nasal Turbinate with Nonaut Sub, Perc Approach",
+    "spend_by": "Fleurette",
+    "quantity": 2,
+    "amount": 62912,
+    "showroom": "Lakin-Heller"
+  },
+  {
+    "id": 85,
+    "date": "6/25/2023",
+    "field": "Fringed Wattle",
+    "description": "Drainage of Int Mamm, L Lymph, Perc Endo Approach, Diagn",
+    "spend_by": "Kinnie",
+    "quantity": 7,
+    "amount": 55929,
+    "showroom": "Mayert, Kulas and Hessel"
+  },
+  {
+    "id": 86,
+    "date": "5/21/2023",
+    "field": "Tumbling Saltweed",
+    "description": "Reposition Right Ethmoid Bone with Int Fix, Open Approach",
+    "spend_by": "Carley",
+    "quantity": 3,
+    "amount": 23232,
+    "showroom": "Prohaska LLC"
+  },
+  {
+    "id": 87,
+    "date": "1/16/2024",
+    "field": "Koelreuteria",
+    "description": "Drainage of L Up Extrem Bursa/Lig, Perc Endo Approach, Diagn",
+    "spend_by": "Curtis",
+    "quantity": 10,
+    "amount": 21900,
+    "showroom": "DuBuque Inc"
+  },
+  {
+    "id": 88,
+    "date": "1/22/2024",
+    "field": "Beetleweed",
+    "description": "Replace of R Occipital Bone with Nonaut Sub, Perc Approach",
+    "spend_by": "Etan",
+    "quantity": 6,
+    "amount": 63715,
+    "showroom": "Dach Group"
+  },
+  {
+    "id": 89,
+    "date": "10/30/2023",
+    "field": "Spathulate Candle Snuffer Moss",
+    "description": "Revision of Nonaut Sub in L Finger Phalanx, Perc Approach",
+    "spend_by": "Bridget",
+    "quantity": 7,
+    "amount": 36681,
+    "showroom": "Cronin, Pagac and Schmeler"
+  },
+  {
+    "id": 90,
+    "date": "12/21/2023",
+    "field": "Kaibab Suncup",
+    "description": "Restriction of Head Lymph with Extralum Dev, Open Approach",
+    "spend_by": "Urbano",
+    "quantity": 9,
+    "amount": 33639,
+    "showroom": "Maggio-Schroeder"
+  },
+  {
+    "id": 91,
+    "date": "12/30/2023",
+    "field": "Woodland Tribisee",
+    "description": "Fragmentation in Carina, External Approach",
+    "spend_by": "Wylie",
+    "quantity": 10,
+    "amount": 34948,
+    "showroom": "Bahringer, Sporer and Maggio"
+  },
+  {
+    "id": 92,
+    "date": "11/16/2023",
+    "field": "Dichodontium Moss",
+    "description": "Bypass Asc Colon to Sigm Colon with Synth Sub, Open Approach",
+    "spend_by": "Ker",
+    "quantity": 7,
+    "amount": 97778,
+    "showroom": "Brekke, Nienow and Johns"
+  },
+  {
+    "id": 93,
+    "date": "5/27/2023",
+    "field": "Milkthistle",
+    "description": "Supplement L Ext Carotid with Autol Sub, Perc Endo Approach",
+    "spend_by": "Chrissy",
+    "quantity": 6,
+    "amount": 93326,
+    "showroom": "Morissette, Corkery and Schaefer"
+  },
+  {
+    "id": 94,
+    "date": "12/18/2023",
+    "field": "Silverbell",
+    "description": "Reposition Right Knee Tendon, Perc Endo Approach",
+    "spend_by": "Glyn",
+    "quantity": 2,
+    "amount": 42289,
+    "showroom": "Kuvalis-Lynch"
+  },
+  {
+    "id": 95,
+    "date": "9/6/2023",
+    "field": "Common Sandaster",
+    "description": "Occlusion R Kidney Pelvis w Intralum Dev, Perc Endo",
+    "spend_by": "Kingston",
+    "quantity": 7,
+    "amount": 21005,
+    "showroom": "Nikolaus Inc"
+  },
+  {
+    "id": 96,
+    "date": "10/21/2023",
+    "field": "Red Buckthorn",
+    "description": "Repair Left Orbit, External Approach",
+    "spend_by": "Dena",
+    "quantity": 5,
+    "amount": 1718,
+    "showroom": "Klein and Sons"
+  },
+  {
+    "id": 97,
+    "date": "8/1/2023",
+    "field": "Field Pennycress",
+    "description": "Insertion of Intraluminal Device into Pancreatic Duct, Endo",
+    "spend_by": "Kerrill",
+    "quantity": 7,
+    "amount": 58235,
+    "showroom": "Lakin-MacGyver"
+  },
+  {
+    "id": 98,
+    "date": "7/24/2023",
+    "field": "Eastern Annual Saltmarsh Aster",
+    "description": "Revision of Autologous Tissue Substitute in Right Ear, Endo",
+    "spend_by": "Gerty",
+    "quantity": 5,
+    "amount": 28837,
+    "showroom": "Turcotte, Schmitt and Harber"
+  },
+  {
+    "id": 99,
+    "date": "8/9/2023",
+    "field": "Sticky Skullcap",
+    "description": "Excision of Left Upper Leg Muscle, Perc Endo Approach, Diagn",
+    "spend_by": "Jens",
+    "quantity": 9,
+    "amount": 3111,
+    "showroom": "O'Reilly, Hamill and Kemmer"
+  },
+  {
+    "id": 100,
+    "date": "6/8/2023",
+    "field": "Anisomeridium Lichen",
+    "description": "Resection of Right Kidney Pelvis, Endo",
+    "spend_by": "Rodrique",
+    "quantity": 6,
+    "amount": 63619,
+    "showroom": "Osinski and Sons"
+  }
+]
